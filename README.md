@@ -96,7 +96,7 @@ flake8 src/ tests/
 
 ## License
 
-[Your chosen license]
+This project is licensed under the MIT License.
 
 ## Contributing
 
